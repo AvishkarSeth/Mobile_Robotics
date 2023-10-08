@@ -1,2 +1,2 @@
-# ROSBOT_MTRN4068
-Public Repo for MTRN4068 Unit at Macquarie University.
+# Mobile_Robotics[https://avishkarseth.github.io/tutorials.html#tutorials]
+Public Repo for Mobile Robotics Projects, Blogs and Tutorials 
