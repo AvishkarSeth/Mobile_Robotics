@@ -1,0 +1,4 @@
+# Mobile_Robotics
+Autonomous Ground Vehicle Project- 2020
+
+The technology for autonomy in vehicles has a momentous advancement. Autonomous ground vehicles (AGV) for off-the-road applications will aid various sectors of the society such as mining, constructions, forest path maneuvering, and defense. This project demonstrates a working prototype of a 1/10th scale autonomous car that has been developed using a custom neural network model. The prototype uses Raspberry pi-4 as the core processor to compute real-time images collected from the camera as the key input. The results illustrate the optimized capability of path planning for the AGV using the custom convolutional neural network model with data augmentation. This paper summarizes the results derived and compares the accuracy of the steering in AGV which can be translated for off-road applications.
